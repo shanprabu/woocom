@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cambo';
+  src: url("../_fonts/Cambo-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PT Sans';
+  src: url("../_fonts/PTS55F.ttf");
+  font-weight: normal;
+  font-style: normal;
+}

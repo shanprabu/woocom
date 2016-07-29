@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-06 13:50+0200\n"
+"PO-Revision-Date: 2015-07-06 13:50+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:4
+msgid "This page does not exist"
+msgstr ""
+
+#: archive.php:9
+msgid "Posted on"
+msgstr ""
+
+#: archive.php:13 archive.php:17
+msgid "Posted in"
+msgstr ""
+
+#: archive.php:21
+msgid "Posts from category"
+msgstr ""
+
+#: archive.php:25
+msgid "Posts by"
+msgstr ""
+
+#: archive.php:29
+msgid "Posts tagged with"
+msgstr ""
+
+#: archive.php:33
+msgid "Archive"
+msgstr ""
+
+#: comments.php:7
+msgid "Comments"
+msgstr ""
+
+#: customizer.php:7
+msgid "Logo"
+msgstr ""
+
+#: customizer.php:17
+msgid "Upload a logo"
+msgstr ""
+
+#: customizer.php:24
+msgid "Footer"
+msgstr ""
+
+#: customizer.php:34
+msgid "Add text to the footer"
+msgstr ""
+
+#: customizer.php:45
+msgid "Header Color"
+msgstr ""
+
+#: customizer.php:56
+msgid "Footer Color"
+msgstr ""
+
+#: customizer.php:67
+msgid "Logo Color"
+msgstr ""
+
+#: customizer.php:78
+msgid "Link Color"
+msgstr ""
+
+#: customizer.php:89
+msgid "Menu Font Color"
+msgstr ""
+
+#: customizer.php:100
+msgid "Text Color"
+msgstr ""
+
+#: customizer.php:111
+msgid "Button Color"
+msgstr ""
+
+#: customizer.php:122
+msgid "Pointer Color"
+msgstr ""
+
+#: footer.php:10
+msgid "Footer text"
+msgstr ""
+
+#: footer.php:11
+msgid "Powered by WordPress"
+msgstr ""
+
+#: functions.php:9
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:84 functions.php:93 functions.php:102
+msgid "Footer column"
+msgstr ""
+
+#: index.php:6
+msgid "Search results for:"
+msgstr ""
+
+#: templates/content-blog.php:22
+msgid "Read more..."
+msgstr ""
+
+#: templates/content-info.php:4
+msgid "Added:"
+msgstr ""
+
+#: templates/content-info.php:14
+msgid "Author:"
+msgstr ""
+
+#: templates/content-info.php:22
+msgid "Comments:"
+msgstr ""
+
+#: templates/content-info.php:38
+msgid "Categories:"
+msgstr ""
+
+#: templates/content-info.php:54
+msgid "Tags:"
+msgstr ""
+
+#: woocommerce/woocommerce_hooks.php:87 woocommerce/woocommerce_hooks.php:96
+#: woocommerce/woocommerce_hooks.php:105
+msgid "Sidebar before product archive"
+msgstr ""
+
+#: woocommerce/woocommerce_hooks.php:114 woocommerce/woocommerce_hooks.php:123
+#: woocommerce/woocommerce_hooks.php:132
+msgid "Sidebar after product archive"
+msgstr ""
+
+#: woocommerce/woocommerce_hooks.php:172
+msgid "This theme works best with"
+msgstr ""
+
+#: woocommerce/woocommerce_hooks.php:173
+msgid "WooCommerce One Page Shopping"
+msgstr ""
+
+#: woocommerce/woocommerce_hooks.php:174
+msgid "Hide notice"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:21
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:94
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
